@@ -1,0 +1,16 @@
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\bin\Debug\CSMusicPlayer.exe.config
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\bin\Debug\CSMusicPlayer.exe
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\bin\Debug\CSMusicPlayer.pdb
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\obj\Debug\CSMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\obj\Debug\CSMusicPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\obj\Debug\CSMusicPlayer.MusicPlayer.resources
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\obj\Debug\CSMusicPlayer.Properties.Resources.resources
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\obj\Debug\CSMusicPlayer.csproj.GenerateResource.cache
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\obj\Debug\CSMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\obj\Debug\CSMusicPlayer.exe
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\obj\Debug\CSMusicPlayer.pdb
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mariano Macias\source\repos\CSMusicPlayer\CSMusicPlayer\obj\Debug\CSMusicPlayer.csproj.ResolveComReference.cache
